@@ -37,10 +37,10 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<!-- <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<!--  <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+ <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/>
 <a href="mailto: ritikpr307@gmail.com">
  <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
@@ -79,5 +79,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
- -->
+<p align="center">If you like it, do fork 🍴 and star ⭐</p> -->
