@@ -63,6 +63,7 @@
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!)](https://git.io/typing-svg)
 
  -->
 
