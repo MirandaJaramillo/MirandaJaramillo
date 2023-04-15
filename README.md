@@ -3,11 +3,14 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/MirandaJaramillo/MirandaJaramillo/blob/main/images/newbg(1).png" />
+<!-- <img src="https://github.com/MirandaJaramillo/MirandaJaramillo/blob/main/images/newbg(1).png" /> -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/96328329/232187695-919bbcb6-183f-4e51-b735-8219be8f8726.gif" alt="animated" />
+</p>
 
 <h2 align="center"> My Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-
+<div></div>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
@@ -38,9 +41,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!)](https://git.io/typing-svg)
-
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=4000&pause=1000&color=BF5DF7&width=435&lines=Thanks+for+visiting+my+GitHub!;Come+back+soon!" alt="Typing SVG">
+  </a>
+</div>
 <!--  
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
